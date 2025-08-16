@@ -6,4 +6,3 @@ Playoff outcomes are simulated between every matchup for the remaining weeks, wi
 
 Thanks for checking this out and feel free to comment or recommend changes!
 
-Support me, my wife, and 5 kiddos at https://buymeacoffee.com/benpowers
